@@ -1,6 +1,4 @@
-![Adarsh Kumar Banner](https://via.placeholder.com/1200x300/FF6B9D/C44569?text=Adarsh+Kumar+|+Full+Stack+Developer)
-
-<h1 align="center">Adarsh Kumar</h1>
+h1 align="center">Adarsh Kumar</h1>
 <p align="center">3rd Year CSE @ KIIT | MERN Stack Developer | Full-Stack Engineer</p>
 
 <div align="center">
