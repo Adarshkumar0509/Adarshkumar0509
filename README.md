@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://media1.tenor.com/m/exuPwTTU-FwAAAAC/key-click-typing.gif"
+    src="https://tenor.com/view/stray-coding-programming-gif-26276553"
     alt="Key click anime typing"
     width="100%"
     style="max-width: 100%; height: auto;"
