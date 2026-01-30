@@ -2,6 +2,8 @@
   <img
     src="https://media1.tenor.com/m/exuPwTTU-FwAAAAC/key-click-typing.gif"
     alt="Key click anime typing"
+    width="100%"
+    style="max-width: 100%; height: auto;"
   />
 </p>
 
