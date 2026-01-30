@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://res.cloudinary.com/superfoliio/image/upload/v1620689979/687474703a2f2f..." alt="banner" />
+</p>
+
 # Hey there! 👋 I'm Adarsh Kumar
 
 **3rd Year CSE @ KIIT | Full Stack Developer | MERN Stack Enthusiast**
