@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/superfoliio/image/upload/v1620689979/687474703a2f2f..." alt="banner" />
+  <img
+    src="https://media1.tenor.com/m/exuPwTTU-FwAAAAC/key-click-typing.gif"
+    alt="Key click anime typing"
+  />
 </p>
 
 # Hey there! 👋 I'm Adarsh Kumar
