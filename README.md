@@ -1,11 +1,10 @@
 <p align="center">
   <img
-    src="https://media1.tenor.com/m/OjVjDqcWaIoAAAAC/stray-coding.gif"
-    alt="Stray coding GIF"
-    width="100%"
-    style="max-width: 100%; height: auto;"
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
   />
 </p>
+
+
 
 # Hey there! 👋 I'm Adarsh Kumar
 
