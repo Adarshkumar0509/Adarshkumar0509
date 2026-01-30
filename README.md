@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="https://tenor.com/view/stray-coding-programming-gif-26276553"
-    alt="Key click anime typing"
+    src="https://media1.tenor.com/m/OjVjDqcWaIoAAAAC/stray-coding.gif"
+    alt="Stray coding GIF"
     width="100%"
     style="max-width: 100%; height: auto;"
   />
