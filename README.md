@@ -71,7 +71,10 @@ I'm a passionate full-stack developer specializing in building modern web applic
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adarshkumar0509&show_icons=true&theme=radical)
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarshkumar0509&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshkumar0509&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🤝 Let's Connect!
