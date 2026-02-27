@@ -73,7 +73,7 @@ I'm a passionate full-stack developer specializing in building modern web applic
 
 <img src="https://streak-stats.demolab.com?user=Adarshkumar0509&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshkumar0509&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshkumar0509&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" />
 
 ---
 
