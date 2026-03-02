@@ -50,11 +50,6 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, JavaScript, HTML5, CSS3, Tailwind CSS, Vite
-
-**Backend:** Node.js, Express.js, Python, Flask
-
-**Database:** MongoDB, MySQL
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
