@@ -72,8 +72,6 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 </div>
 
 
-**Tools:** Git, GitHub, VS Code, Postman
-
 ---
 
 ## 🎯 Featured Projects
