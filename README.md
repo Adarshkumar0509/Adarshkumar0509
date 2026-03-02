@@ -12,6 +12,14 @@ I'm a passionate full-stack developer specializing in building modern web applic
 
 ---
 
+<div align="center">
+
+[![Follow @Adarshkumar0509](https://img.shields.io/badge/FOLLOW%20%40Adarshkumar0509-00ACEE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshkumar0509)
+
+</div>
+
+---
+
 ## 🤝 Let's Connect!
 
 I'm always open to collaborating on interesting projects. Feel free to reach out!
@@ -104,14 +112,6 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 ## 📊 GitHub Stats
 
 <img src="https://streak-stats.demolab.com?user=Adarshkumar0509&theme=tokyonight" />
-
----
-
-<div align="center">
-
-[![Follow @Adarshkumar0509](https://img.shields.io/badge/FOLLOW%20%40Adarshkumar0509-00ACEE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshkumar0509)
-
-</div>
 
 ---
 
