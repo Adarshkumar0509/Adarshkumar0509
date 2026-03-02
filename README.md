@@ -4,6 +4,8 @@
 
 **3rd Year CSE @ KIIT | Full Stack Developer | MERN Stack Enthusiast**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshgautams&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshgautams" /> </p>
+
 ---
 
 ## About Me
