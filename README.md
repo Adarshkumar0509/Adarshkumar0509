@@ -98,7 +98,9 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 ✅ AWS Academy Graduate - Microservices and CI/CD Pipeline  
 🏅 GHCI 2025 Hackathon Participant - Unbound with GenAI  
 🎖️ Adobe India Hackathon - Round 1 Completed  
-🎓 Fashion Society Core Team - IIT Bhubaneswar Winner  
+🎯 SIH 2025 Hackathon - Selected in Top 50
+🏅 GDG Hackathon Winner
+👔 Fashion Society Core Team - IIT Bhubaneswar Winner
 
 ---
 
