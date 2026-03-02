@@ -104,4 +104,26 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 
 ---
 
+## 🤝 Connect with me:
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdarshK_here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-kumar-6a5706285)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kumaradarsh_05)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshkumarthakur0509@gmail.com)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://snapchat.com/add/kumaradarsh_05)
+
+---
+
+<div align="center">
+
+[![Follow @Adarshkumar0509](https://img.shields.io/badge/FOLLOW%20%40Adarshkumar0509-00ACEE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshkumar0509)
+
+</div>
+
+---
+
+**Made with ❤️ by Adarsh Kumar**
+
+---
+
 *Made with ❤️ by Adarsh Kumar*
