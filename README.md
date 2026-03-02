@@ -85,11 +85,6 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 - **Tech:** React, Vite, JavaScript, REST API
 - [View Repository](https://github.com/Adarshkumar0509/Weather-app)
 
-### Book Store Platform
-- Budget-friendly hub for students to find textbooks
-- **Tech:** HTML5, CSS3, JavaScript
-- [View Repository](https://github.com/Adarshkumar0509/Book-Store)
-
 ---
 
 ## 🏆 Achievements
