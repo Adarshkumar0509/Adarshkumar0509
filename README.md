@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshgautams&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshgautams" /> </p>
 
----
-
 <div align="center">
 
 [![Follow @Adarshkumar0509](https://img.shields.io/badge/FOLLOW%20%40Adarshkumar0509-00ACEE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshkumar0509)
