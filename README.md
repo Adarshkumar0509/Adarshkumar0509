@@ -10,12 +10,23 @@
 
 I'm a passionate full-stack developer specializing in building modern web applications. I love working with React, Node.js, and creating scalable solutions. Currently pursuing my B.Tech in Computer Science at KIIT University, Bhubaneswar.
 
-### Contact Information
-- 📧 **Email:** adarshkumarthakur0509@gmail.com
-- 📱 **Phone:** +91-7461055798
-- 📍 **Location:** Bhubaneswar, Odisha, India
-- 💼 **LinkedIn:** [linkedin.com/in/adarsh-kumar-6a5706285](https://www.linkedin.com/in/adarsh-kumar-6a5706285/)
-- 🐙 **GitHub:** [github.com/Adarshkumar0509](https://github.com/Adarshkumar0509)
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to collaborating on interesting projects. Feel free to reach out!
+
+**[Visit My Profile](https://github.com/Adarshkumar0509) | [Email Me](mailto:adarshkumarthakur0509@gmail.com)**
+
+---
+
+## 🤝 Connect with me:
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdarshK_here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-kumar-6a5706285)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kumaradarsh_05)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshkumarthakur0509@gmail.com)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://snapchat.com/add/kumaradarsh_05)
 
 ---
 
@@ -93,24 +104,6 @@ I'm a passionate full-stack developer specializing in building modern web applic
 ## 📊 GitHub Stats
 
 <img src="https://streak-stats.demolab.com?user=Adarshkumar0509&theme=tokyonight" />
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to collaborating on interesting projects. Feel free to reach out!
-
-**[Visit My Profile](https://github.com/Adarshkumar0509) | [Email Me](mailto:adarshkumarthakur0509@gmail.com)**
-
----
-
-## 🤝 Connect with me:
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdarshK_here)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-kumar-6a5706285)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kumaradarsh_05)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshkumarthakur0509@gmail.com)
-[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://snapchat.com/add/kumaradarsh_05)
 
 ---
 
