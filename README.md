@@ -126,4 +126,3 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 
 ---
 
-*Made with ❤️ by Adarsh Kumar*
