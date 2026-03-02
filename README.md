@@ -8,17 +8,17 @@
 
 ---
 
-## About Me
-
-I'm a passionate full-stack developer specializing in building modern web applications. I love working with React, Node.js, and creating scalable solutions. Currently pursuing my B.Tech in Computer Science at KIIT University, Bhubaneswar.
-
----
-
 <div align="center">
 
 [![Follow @Adarshkumar0509](https://img.shields.io/badge/FOLLOW%20%40Adarshkumar0509-00ACEE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshkumar0509)
 
 </div>
+
+---
+
+## About Me
+
+I'm a passionate full-stack developer specializing in building modern web applications. I love working with React, Node.js, and creating scalable solutions. Currently pursuing my B.Tech in Computer Science at KIIT University, Bhubaneswar.
 
 ---
 
