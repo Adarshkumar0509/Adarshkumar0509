@@ -37,16 +37,6 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 
 ---
 
-## 💻 What I Do
-
-- **Full-Stack Web Development** - Building robust web applications from frontend to backend
-- **MERN Stack** - React.js, Node.js, Express.js, MongoDB, and modern JavaScript
-- **REST APIs** - Creating scalable and efficient backend services
-- **Responsive UI/UX** - Designing beautiful interfaces with Tailwind CSS
-- **AI/ML Integration** - Working with LLMs and intelligent systems
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
