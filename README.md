@@ -4,15 +4,14 @@
 
 **3rd Year CSE @ KIIT | Full Stack Developer | MERN Stack Enthusiast**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarshkumar0509&label=Profile%20views&color=0e75b6&style=flat" alt="Adarshkumar0509" /> </p> [[Follow @Adarshkumar0509](https://img.shields.io/badge/Follow-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshkumar0509)
 
-<div align="center">
 
-[![Follow @Adarshkumar0509](https://img.shields.io/badge/FOLLOW%20%40Adarshkumar0509-00ACEE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshkumar0509)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarshkumar0509s&label=Profile%20views&color=0e75b6&style=flat" alt="Adarshkumar0509" /> </p>
 
-</div>
 
----
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Adarshkumar0509?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAdarshkumar0509&screen_name=Adarshkumar0509)
+
 
 ## About Me
 
