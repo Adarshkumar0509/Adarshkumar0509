@@ -19,15 +19,9 @@ I’m Adarsh a passionate developer who enjoys building modern, scalable web app
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Connect with me:
 
 I'm always open to collaborating on interesting projects. Feel free to reach out!
-
-**[Visit My Profile](https://github.com/Adarshkumar0509) | [Email Me](mailto:adarshkumarthakur0509@gmail.com)**
-
----
-
-## 🤝 Connect with me:
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdarshK_here)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-kumar-6a5706285)
