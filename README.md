@@ -109,10 +109,14 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
   <!-- https://github.com/Adarshkumar0509/github-readme-activity-graph -->
 
   <a href="https://github.com/Adarshkumar0509/github-readme-activity-graph"><img alt="Adarshkumar0509's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Adarshkumar0509&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adarsh-kumar-6a5706285/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Adarshkumar0509)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adarshkumarthakur0509@gmail.com)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Kumaradarsh_05/)
+
 
 ---
 
 **Made with ❤️ by Adarsh Kumar**
 
 ---
-
