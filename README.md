@@ -2,7 +2,7 @@
 # Hi, I'm Adarsh kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 
-**3rd Year CSSE @ KIIT | Full Stack Developer | Open Source contributor**
+**3rd Year CSSE @ KIIT | Full Stack Developer | Open Source Contributor**
 
 
 
@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a passionate full-stack developer specializing in building modern web applications. I love working with React, Node.js, and creating scalable solutions. Currently pursuing my B.Tech in Computer Science at KIIT University, Bhubaneswar.
+I’m Adarsh a passionate developer who enjoys building modern, scalable web applications and contributing to open-source projects. I love turning ideas into real products using modern technologies and continuously improving my development skills.
 
 ---
 
