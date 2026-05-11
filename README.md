@@ -60,10 +60,11 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 
 ## 🎯 Featured Projects
 
-### Food Delivery Application
-- Responsive web app with dynamic menu rendering and cart management
-- **Tech:** React, Tailwind CSS, JavaScript
-- [View Repository](https://github.com/Adarshkumar0509/Food-delivery)
+### GenUI - AI Component Generator
+- An AI-powered UI component generator built with React, Vite, Tailwind CSS, and Google Gemini API.
+- **Tech:** React, Tailwind CSS, JavaScript,React,vite,Gemini api
+- [View Repository](https://github.com/Adarshkumar0509/GenUI)
+- live link- https://gen-ui-8mk7.vercel.app
 
 ### Weather Application  
 - Real-time weather forecasting with API integration
