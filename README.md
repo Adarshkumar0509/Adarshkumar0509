@@ -77,9 +77,11 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 
 🏅 GDG Hackathon Winner
 
-🎯 SIH 2025 Hackathon - Selected in Top 50
+🎯 SIH 2025 Hackathon - Selected in Top 100 college
 
-🎖️ Adobe India Hackathon - Round 1 Completed
+🎖️ Adobe India Hackathon - Round 1 Completed and selected for 2nd round
+
+ 🎯  Top Contributor in OWASP Cornucopia
 
 👔 Fashion Society Core Team - IIT Bhubaneswar Winner
 
