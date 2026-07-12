@@ -12,7 +12,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Adarshk_here?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAdarshk_here&screen_name=Adarshk_here)
 
-
 ## About Me
 
 I’m Adarsh a passionate developer who enjoys building modern, scalable web applications and contributing to open-source projects. I love turning ideas into real products using modern technologies and continuously improving my development skills.
