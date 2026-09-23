@@ -120,7 +120,6 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 
  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
-
 ---
 
 **Made with ❤️ by Adarsh Kumar**
