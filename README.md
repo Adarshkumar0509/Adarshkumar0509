@@ -12,6 +12,7 @@
 
 ## About Me
 
+
 I’m Adarsh a passionate developer who enjoys building modern, scalable web applications and contributing to open-source projects. I love turning ideas into real products using modern technologies and continuously improving my development skills.
 
 ---
