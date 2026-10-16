@@ -103,6 +103,7 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
+
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Adarshkumar0509's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Adarshkumar0509&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   
   <br/>
@@ -118,6 +119,7 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Adarshkumar0509)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adarshkumarthakur0509@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Kumaradarsh_05/)
+
 
  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
